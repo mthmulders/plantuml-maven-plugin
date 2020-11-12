@@ -95,6 +95,7 @@
 			<plugin>
 				<groupId>com.mycila.maven-license-plugin</groupId>
 				<artifactId>maven-license-plugin</artifactId>
+				<version>1.10.b1</version>
 				<executions>
 					<execution>
 						<goals>
